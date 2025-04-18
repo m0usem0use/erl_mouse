@@ -5,6 +5,7 @@ erl_mouse.py
 Hello, my fellow Makers + Breakers... this is a...
 
 Terminal UI for "ERL MOUSE": scanning and detecting vulnerable Erlang/OTP SSH servers.
+Regarding CVE-2025-32433 
 Produces both CSV and JSON lists of vulnerable hosts and prints results to terminal.
 
 Note: It has been very dfficult to find a vulnerable host but so far not impossible!
