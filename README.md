@@ -13,3 +13,8 @@ Although there are presets to scan [by several countries (more will be added), b
 
 
 *For education and security research*
+
+### Requirements
+
+Python3
+Masscan 
