@@ -1,10 +1,8 @@
-# erl_mouse
+# erl_mouse version 1.1
 
-##### WORKING ON COMPLETE OVERHAUL OF SCRIPT INTO THE WEE HOURS (v1.1)
-- New RabbitMQ + CouchDB blocks to scan (all use the vulnerability but its just a matter of finding one not patched)
-- Debug output into CV + JSON
-- China supposedly the most likely country to have this CVE so why not scan ALL of China.  Yup, all 350,000,000+ IP's lol
-- Status bar for those scans longer than our ADHD/patience can handle
+##### Alright, I've improved several things to increase chances of finding a vulnerable device or network.  Most are not public facing, have been patched, or are so oscure that it can be difficult to find a target. 
+Nevertheless, we persist.  You can now scan every IP address in china by choosing "Type Presets" and then choose from the amount of blocks you want to scan at one time.  There are over 300 million IP addresses so take it easy.  Haha.
+There are other more tailored categories to choose from that you may have a better chance with.  RabbitMQ and CouchDB IP blocks will typically use the vulnerable SSH service.  Okay, good luck with ERL MOUSE (v1.1)
 
   
 python script to find vulnerable targets of CVE-2025-32433 
