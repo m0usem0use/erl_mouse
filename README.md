@@ -1,4 +1,12 @@
 # erl_mouse
+
+##### WORKING ON COMPLETE OVERHAUL OF SCRIPT INTO THE WEE HOURS (v1.1)
+- New RabbitMQ + CouchDB blocks to scan (all use the vulnerability but its just a matter of finding one not patched)
+- Debug output into CV + JSON
+- China supposedly the most likely country to have this CVE so why not scan ALL of China.  Yup, all 350,000,000+ IP's lol
+- Status bar for those scans longer than our ADHD/patience can handle
+
+  
 python script to find vulnerable targets of CVE-2025-32433 
 
 This script scans CIDR blocks to find vulnerable targets of CVE-2025-32433.  
