@@ -23,4 +23,5 @@ Although there are presets to scan [by several countries (more will be added), b
 ### Requirements
 
 - Python3
-- Masscan 
+- Masscan
+- china_ip_ranges.txt needs to be in same directory folder as erl_mouse_v1-1.py
